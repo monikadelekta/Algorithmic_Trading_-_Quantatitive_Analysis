@@ -6,3 +6,5 @@ All code is taken from or adapted from the Udemy course 'Algorithmic Trading & Q
 The course can be found here https://www.udemy.com/share/1021zqAEMacVZXRn4D/ 
 
 Thanks to Mayank for such an insightful course into Quant Trading in Python.
+
+- Not for commercial use
